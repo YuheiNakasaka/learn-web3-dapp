@@ -1,3 +1,5 @@
+Tutorial Done!
+
 # 👋🏼 What is `learn-web3-dapp`?
 
 We made this decentralized application (dApp) to help developers learn about Web 3 protocols.
